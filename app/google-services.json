@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822395329487",
+    "firebase_url": "https://self-chat-ex5.firebaseio.com",
+    "project_id": "self-chat-ex5",
+    "storage_bucket": "self-chat-ex5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822395329487:android:037084165371bec8",
+        "android_client_info": {
+          "package_name": "com.boaz.dragonski.self_chat_ex5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822395329487-gfe5lapritc2lj4lmtpfr55vaqmn38tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx51JyjVKkH48uQmWtNnJ_beW7Sqa7Ib8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822395329487-gfe5lapritc2lj4lmtpfr55vaqmn38tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
